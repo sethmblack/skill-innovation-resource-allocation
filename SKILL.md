@@ -1,11 +1,10 @@
 ---
 name: innovation-resource-allocation
-description: Design and audit resource allocation across core business, adjacent opportunities,
-  and transformational moonshots using the 70-20-10 framework.
+description: Design and audit resource allocation across core business, adjacent opportunities, and transformational moonshots using the 70-20-10 framework.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - innovation-resource-allocation
 - transformation
